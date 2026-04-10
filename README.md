@@ -19,12 +19,11 @@ The Number Guessing Game is a simple interactive application where the user trie
 * Tkinter (for GUI, if used)
 
 ## 📸 Screenshots
-
-(Add your screenshots here)
+img1.png,img2.png,img3.png,img4.png
 
 ## 🎥 Demo Video
 
-▶️ [Watch Demo](PASTE_YOUR_GOOGLE_DRIVE_LINK)
+▶️ [Watch Demo](https://drive.google.com/file/d/1TdZQgEbOjiLuShklgUsxPWxRtiAZOno7/view?usp=sharing)
 
 ## 📂 Project Structure
 
